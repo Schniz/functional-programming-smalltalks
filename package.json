@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "sanctuary": "^0.14.1"
+  }
+}
