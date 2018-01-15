@@ -15,7 +15,7 @@ smells in our codebase, share them!
 * `yarn`
 * Remap `<CR>` in vim while on visual mode to run the code blocks in node: `vnoremap <CR> :!node<CR>`
 
-## Libraries in use
+### Libraries in use
 
 * [Ramda](http://ramdajs.com)
 
