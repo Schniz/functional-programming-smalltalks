@@ -25,8 +25,8 @@ Introduction and Lenses
 
 * [First class functions](talk01/01_first-class-functions.md) - introduction
 * [Function purity](talk01/02_purity.md) - introduction
-* [Function composition](talk01/02_purity.md) - introduction
-* [Lenses](talk01/03_lenses.md) - pattern
+* [Function composition](talk01/03_function_composition.md) - introduction
+* [Lenses](talk01/04_lenses.md) - pattern
 
 # Thanks
 
